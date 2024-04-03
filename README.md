@@ -17,14 +17,28 @@ amass enum -d example.com
 dmitry -iwnp -t 7 host.net
 ```
 
-
-* [**LEGION(ROOT)**]()
+* [**LEGION(ROOT)**](https://www.geeksforgeeks.org/legion-tool-in-kali-linux/)
 This package contains an open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems.
 Legion tool is a super-extensible and semi-automated network penetration testing framework. Legion is very easy to operate.
 
-# COMMAND EXAMPLE: 
-```bash
 
-```
+* [**MALTEGO (INSTALLER)**](https://www.geeksforgeeks.org/maltego-tool-in-kali-linux/) is an open-source intelligence and forensics application. It offers timely mining and gathering of information as well as the representation of this information in an easy-to-understand format.
+  * It is used for gathering information for security-related work.
+  * It will save your time and make your work smarter and more accurate.
+  * It will help you in the thinking process by demonstrating connected links between all the searched items.
+  * If you want to get hidden information, Maltego can help you discover it.
+
+
+* [**NET DISCOVER**](https://www.kali.org/tools/netdiscover/) is an active/passive address reconnaissance tool, mainly developed for those wireless networks without dhcp server, when you are wardriving. It can be also used on hub/switched networks.
+Netdiscover can also be used to inspect your network ARP traffic, or find network addresses using auto scan mode, which will scan for common local networks. Netdiscover uses the OUI table to show the vendor of the each MAC address discovered and is very useful for security checks or in pentests.
+
+
+* [**NMAP**](https://linuxconfig.org/introduction-to-nmap-on-kali-linux)
+Nmap is a powerful tool for discovering information about machines on a network or the Internet. It allows you to probe a machine with packets to detect everything from running services and open ports to the operating system and software versions. It is also a powerful tool for finding open ports, examining hosts, and extracting useful information about the services that each port uses.
+
+
+* [**RECON-NG**](https://kali.org/tools/recon-ng/)
+Recon-ng is a full-featured Web Reconnaissance framework written in Python. Complete with independent modules, database interaction, built in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted quickly and thoroughly.
+This tool can be used to get information about our target(domain). The interactive console provides a number of helpful features, such as command completion and contextual help. Recon-ng is a Web Reconnaissance tool written in Python. It has so many modules, database interaction, built-in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted, and we can gather all information.
 
 
